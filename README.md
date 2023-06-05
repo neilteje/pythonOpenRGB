@@ -26,7 +26,7 @@ Additional Features (Not part of the OpenRGB SDK):
 
 # Installation
 
-requires python >= 3.7
+requires python >= 3.6
 
 Use this method for the newest, but possibly buggy, package:
 
